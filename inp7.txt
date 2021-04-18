@@ -1,0 +1,18 @@
+50 12
+40 0
+6 10
+./player 5 8 0
+13
+./monster s 3 5 5 5 1 2
+./monster J 1 1 10 6 4 2
+./monster J 6 8 121 1 0 1
+./monster t 5 8 5 5 1 2
+./monster A 40 10 10 6 4 2
+./monster J 22 8 121 1 0 10
+./monster C 30 10 5 5 1 2
+./monster E 3 10 10 6 4 2
+./monster N 44 11 121 1 0 1
+./monster G 34 8 5 5 1 2
+./monster p 41 10 10 6 4 2
+./monster r 23 3 12 1 0 10
+./monster k 24 5 2 1 0 10
